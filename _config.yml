@@ -1,2 +1,3 @@
 name: Rys Rabang
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
